@@ -27,7 +27,14 @@ public class BackgroundItemsGenerator : MonoBehaviour {
 	public float generationAreaX = 7f;
 
 	void Start () {
-		
+		/*for (int i = 0; i < 10; i++) {
+			foreach (var item in bgItems) {
+				SpawnObjectsOnRoad (item, new Vector3 (Random.Range (transform.position.x - generationAreaX, transform.position.x + generationAreaX), transform.position.y + 1f, transform.position.z));
+			}
+		}*/
+
+
+
 		for (int i = 0; i < 10; i++) {
 			if (Random.value < treesFrequency) {
 					SpawnTree (new Vector3 (Random.Range (transform.position.x - generationAreaX, transform.position.x + generationAreaX), transform.position.y + 1f, transform.position.z));
@@ -44,17 +51,10 @@ public class BackgroundItemsGenerator : MonoBehaviour {
 				SpawnConstruction (new Vector3 (Random.Range (transform.position.x - generationAreaX, transform.position.x + generationAreaX), transform.position.y + 1f, transform.position.z));
 			}
 		}
-
-
-	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-
-		
 
 	}
+
 
 
 		
@@ -80,4 +80,11 @@ public class BackgroundItemsGenerator : MonoBehaviour {
 		//Tree.transform.SetParent (transform);
 	}
 
+	/*void SpawnObjectsOnRoad(GameObject obj, Vector3 location) {
+		if (!Physics2D.OverlapCircle (new Vector2 (location.x, location.y), 3f, layer)) {
+			GameObject Obj = Instantiate (obj, location, transform.rotation) as GameObject;
+		}
+
+	}
+	*/
 }

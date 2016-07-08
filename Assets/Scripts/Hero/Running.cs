@@ -13,6 +13,8 @@ public class Running : MonoBehaviour {
 	public Transform groundChecker; 
 	public LayerMask groundLayer;
 
+	public AudioClip runningClip;
+
 	private int currentJumpCount;
 	public int maxJumpCount;
 	public int countOfJumps {
@@ -36,6 +38,9 @@ public class Running : MonoBehaviour {
 
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
+
+		SoundManager.Instance.MusicVolume = 0.2f;
+		SoundManager.Instance.PlayLoop (runningClip);
 	}
 
 	void Update () {
