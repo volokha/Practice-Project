@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 6c0954af80a31fe43ac422784104743d
+timeCreated: 1468534626
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BackgroundItems_0
+    21300002: BackgroundItems_1
+    21300004: BackgroundItems_2
+    21300006: BackgroundItems_3
+    21300008: BackgroundItems_4
+    21300010: BackgroundItems_5
+    21300012: BackgroundItems_6
+    21300014: BackgroundItems_7
+    21300016: BackgroundItems_8
+    21300018: BackgroundItems_9
+    21300020: BackgroundItems_10
+    21300022: BackgroundItems_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BackgroundItems_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 738
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 75.455376}
+        - {x: -24, y: 75.455376}
+        - {x: -39, y: 73.455376}
+        - {x: -157, y: -30.544624}
+        - {x: -157, y: -55.544624}
+        - {x: -132, y: -74.544624}
+        - {x: -101, y: -74.544624}
+        - {x: 117, y: -54.544624}
+        - {x: 157, y: -48.544624}
+        - {x: 157, y: -38.544624}
+    - name: BackgroundItems_1
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 112
+        width: 428
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.98941, y: 59.108135}
+        - {x: -90.98941, y: 3.1081352}
+        - {x: -90.98941, y: -57.891865}
+        - {x: 84.01059, y: -57.891865}
+        - {x: 92.01059, y: -55.891865}
+        - {x: 92.01059, y: -36.891865}
+        - {x: 32.01059, y: 59.108135}
+      - - {x: 88.01059, y: -54.891865}
+        - {x: 88.01059, y: -56.891865}
+        - {x: 89.01059, y: -57.891865}
+        - {x: 92.01059, y: -57.891865}
+        - {x: 92.01059, y: -52.891865}
+        - {x: 90.01059, y: -52.891865}
+    - name: BackgroundItems_2
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 112
+        width: 708
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133.31628, y: -70.39186}
+        - {x: 70.316284, y: 63.60814}
+        - {x: 2.3162842, y: 94.60814}
+        - {x: -44.683716, y: 94.60814}
+        - {x: -54.683716, y: 70.60814}
+        - {x: -150.68372, y: -86.39186}
+        - {x: -150.68372, y: -93.39186}
+        - {x: 7.316284, y: -93.39186}
+        - {x: 151.31628, y: -90.39186}
+        - {x: 151.31628, y: -85.39186}
+      - - {x: -150.68372, y: -76.39186}
+        - {x: -150.68372, y: -84.39186}
+        - {x: -149.68372, y: -84.39186}
+        - {x: -146.68372, y: -81.39186}
+        - {x: -146.68372, y: -79.39186}
+        - {x: -149.68372, y: -76.39186}
+    - name: BackgroundItems_3
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 107
+        width: 247
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.355713, y: 55.482773}
+        - {x: 30.355713, y: 33.482773}
+        - {x: 9.355713, y: 70.48277}
+        - {x: -10.644287, y: 95.48277}
+        - {x: -52.644287, y: 95.48277}
+        - {x: -52.644287, y: -53.517227}
+        - {x: -7.644287, y: -94.51723}
+        - {x: 38.355713, y: -94.51723}
+        - {x: 53.355713, y: -17.517227}
+        - {x: 53.355713, y: 53.482773}
+        - {x: 50.355713, y: 66.48277}
+    - name: BackgroundItems_4
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 161
+        width: 280
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.664185, y: 71.43669}
+        - {x: -59.664185, y: 36.43669}
+        - {x: -59.664185, y: -36.56331}
+        - {x: -48.664185, y: -67.56331}
+        - {x: -41.664185, y: -66.56331}
+        - {x: -38.664185, y: -61.56331}
+        - {x: -28.664185, y: -70.56331}
+        - {x: 55.335815, y: -70.56331}
+        - {x: 58.335815, y: -69.56331}
+        - {x: 60.335815, y: -56.56331}
+        - {x: 60.335815, y: 20.436691}
+        - {x: 29.335815, y: 71.43669}
+    - name: BackgroundItems_5
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 128
+        width: 72
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BackgroundItems_6
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 97
+        width: 259
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.90393, y: 121.73204}
+        - {x: -35.09607, y: 121.73204}
+        - {x: -55.09607, y: 104.73204}
+        - {x: -55.09607, y: 6.7320404}
+        - {x: -10.096069, y: -121.26796}
+        - {x: 14.903931, y: -121.26796}
+        - {x: 19.90393, y: -118.26796}
+        - {x: 54.90393, y: -30.26796}
+        - {x: 55.90393, y: -26.26796}
+        - {x: 55.90393, y: 107.73204}
+    - name: BackgroundItems_7
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 189
+        width: 433
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.025146, y: 61.33873}
+        - {x: -46.974854, y: 61.33873}
+        - {x: -91.97485, y: -21.66127}
+        - {x: -91.97485, y: -59.66127}
+        - {x: -40.974854, y: -60.66127}
+        - {x: 93.02515, y: -60.66127}
+        - {x: 93.02515, y: -43.66127}
+        - {x: 35.025146, y: 58.33873}
+    - name: BackgroundItems_8
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 166
+        width: 26
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BackgroundItems_9
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 112
+        width: 42
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BackgroundItems_10
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 112
+        width: 85
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.9176025, y: 16.608135}
+        - {x: -1.0823975, y: 58.608135}
+        - {x: -5.0823975, y: 60.608135}
+        - {x: -17.082397, y: 60.608135}
+        - {x: -18.082397, y: 59.608135}
+        - {x: -18.082397, y: -26.391865}
+        - {x: -15.082397, y: -59.391865}
+        - {x: 0.91760254, y: -59.391865}
+        - {x: 18.917603, y: -18.391865}
+        - {x: 18.917603, y: 22.608135}
+        - {x: 10.917603, y: 25.608135}
+    - name: BackgroundItems_11
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 0
+        width: 152
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.111084, y: 108}
+        - {x: -32.111084, y: -98}
+        - {x: -19.111084, y: -108}
+        - {x: 6.888916, y: -108}
+        - {x: 32.888916, y: -57}
+        - {x: 32.888916, y: 108}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

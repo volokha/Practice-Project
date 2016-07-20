@@ -6,12 +6,16 @@ public class Die : MonoBehaviour {
 
 	public AudioClip dieClip;
 
+	public Animator animator;
+
 	void OnTriggerEnter2D(Collider2D coll) {
 		
 		if (coll.gameObject.layer == 9) {
 
 			SoundManager.Instance.StopLoop ();
 			SoundManager.Instance.RandomizeSfx (dieClip);
+
+			animator.SetBool ("isDead", true);
 
 			GameManager gm;
 			gm = GameManager.Instance;
